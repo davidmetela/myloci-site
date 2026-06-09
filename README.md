@@ -18,5 +18,5 @@ GitHub Pages setup:
 
 The URLs will usually be:
 
-- `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/privacy/`
-- `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/support/`
+- `https://davidmetela.github.io/YOUR_REPOSITORY_NAME/privacy/`
+- `https://davidmetela.github.io/YOUR_REPOSITORY_NAME/support/`
